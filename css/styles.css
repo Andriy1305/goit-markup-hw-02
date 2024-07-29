@@ -98,11 +98,11 @@ background-color:#f4f4fd;
 background-color:#fff;
 }
 .team-tittle{
-font-family: "Roboto", sans-serif;
 font-weight: 700;
 font-size: 36px;
 line-height: 1.11;
 letter-spacing: 0.02em;
+text-transform: capitalize;
 text-align: center;
 color: #2e2f42;
 }
@@ -123,11 +123,11 @@ text-align: center;
 color: #434455;
 } 
 .portfolio-tittle{
-font-family: "Roboto", sans-serif;
 font-weight: 700;
 font-size: 36px;
 line-height: 1.11;
 letter-spacing: 0.02em;
+text-transform: capitalize;
 text-align: center;
 color: #2e2f42;
 }
