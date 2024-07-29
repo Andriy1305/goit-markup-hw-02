@@ -94,7 +94,7 @@ color: #434455;
 .section-team{
 background-color:#f4f4fd;
 }
-.team-list{
+.team-item{
 background-color:#fff;
 }
 .team-tittle{
@@ -131,7 +131,7 @@ letter-spacing: 0.02em;
 text-align: center;
 color: #2e2f42;
 }
-.portfolio-list {
+.portfolio-item {
 background-color:#fff
 }
 
